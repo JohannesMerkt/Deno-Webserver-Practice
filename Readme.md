@@ -1,6 +1,6 @@
 # Practice Implementing a Web Server
 
-For this Task im using Deno which is fairly new. Its a secure javascript/typescript runtime aiming to fix all issues nodejs has. See: https://deno.land
+I wanted to use Deno which is fairly new and figure out how to build a webserver with it. Its a secure javascript/typescript runtime aiming to fix all issues nodejs has. See: https://deno.land
 
 ## Running the script
 
